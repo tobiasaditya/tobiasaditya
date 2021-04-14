@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 my name is Tobias Aditya. This is my GitHub account. I have some repositories where I learn some new stuff (new programming language).
+
 
 <!--
 **tobiasaditya/tobiasaditya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
