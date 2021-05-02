@@ -10,7 +10,7 @@ My name is Tobias. This is my GitHub account. I have some repositories where I l
 <a href="https://developer.android.com/studio" title="Android Studio"><img src="https://github.com/get-icon/geticon/blob/master/logos/android-icon.svg" alt="Android Studio" width="21px" height="21px"></a>
 <a href="https://www.arduino.cc/" title="Arduino"><img src="https://github.com/get-icon/geticon/blob/master/logos/arduino.svg" alt="Arduino" width="21px" height="21px"></a>
 
-
+[![Tobias's github stats](https://github-readme-stats.vercel.app/api?username=tobiasaditya&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
