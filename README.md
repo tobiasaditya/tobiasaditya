@@ -14,7 +14,7 @@ My name is Tobias. This is my GitHub account. I have some repositories where I l
 
 ### Entertainment
 <a href="https://www.codewars.com/users/obider" title="Codewars' badge"><img src="https://www.codewars.com/users/obider/badges/large" alt="Codewars" width="400px" height="40px"></a>
-<a href="https://www.hackerrank.com/tobiasadityar" title="HackerRank"><img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="HacekerRank" width="100px" height="40px"></a> 
+<a href="https://www.hackerrank.com/tobiasaditya" title="HackerRank"><img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="HacekerRank" width="100px" height="40px"></a> 
 <!--
 **tobiasaditya/tobiasaditya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
