@@ -11,6 +11,10 @@ My name is Tobias. This is my GitHub account. I have some repositories where I l
 <a href="https://www.arduino.cc/" title="Arduino"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/arduino.svg" alt="Arduino" width="21px" height="21px"></a>
 <a href="https://fastapi.tiangolo.com/" title="FastAPI"><img src="https://images.tute.io/tute/topic/FastAPI.png" alt="FastAPI" width="21px" height="21px"></a>
 <a href="https://www.mongodb.com/" title="MongoDB"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/mongodb.svg" alt="MongoDB" width="21px" height="21px"></a>
+<a href="https://redis.io/" title="Redis"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/redis.svg" alt="Redis" width="21px" height="21px"></a>
+<a href="https://firebase.google.com/" title="Firebase"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/firebase.svg" alt="Firebase" width="21px" height="21px"></a>
+<a href="https://go.dev/" title="Go"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/go.svg" alt="Go" width="21px" height="21px"></a>
+<a href="https://github.com/gin-gonic/gin" title="Gin"><img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" alt="Gin" width="21px" height="21px"></a>
 
 
 
