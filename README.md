@@ -15,6 +15,11 @@ My name is Tobias. This is my GitHub account. I have some repositories where I l
 <a href="https://firebase.google.com/" title="Firebase"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/firebase.svg" alt="Firebase" width="21px" height="21px"></a>
 <a href="https://go.dev/" title="Go"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/go.svg" alt="Go" width="21px" height="21px"></a>
 <a href="https://github.com/gin-gonic/gin" title="Gin"><img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" alt="Gin" width="21px" height="21px"></a>
+<a href="https://graphql.org/" title="GraphQL"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/graphql.svg" alt="GraphQL" width="21px" height="21px"></a>
+<a href="https://www.rust-lang.org/" title="Rust"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/rust.svg" alt="Rust" width="21px" height="21px"></a>
+<a href="https://soliditylang.org/" title="Solidity"><img src="https://soliditylang.org/images/logo.svg" alt="Solidity" width="21px" height="21px"></a>
+
+
 
 
 
